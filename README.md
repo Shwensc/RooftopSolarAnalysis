@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # note-app
 # SolarRooftopMapping
 # Solar-Rooftop-Mapping
+# Solar-Rooftop-Mapping
